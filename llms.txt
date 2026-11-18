@@ -1,0 +1,24 @@
+# Planeta Frio Ar Condicionado e Refrigeração Comercial
+
+> A Planeta Frio é uma empresa de climatização e refrigeração em Pouso Alegre, Minas Gerais, desde 2017. Faz instalação e manutenção de ar condicionado de todas as marcas, climatizadores, câmara fria, refrigeradores e geladeira doméstica ou industrial, para clientes residenciais, comerciais e industriais. Oferece plantão aos sábados e domingos para emergências.
+
+## Dados da empresa
+- Nome: Planeta Frio Ar Condicionado e Refrigeração Comercial
+- Endereço: R. Geraldo Gonçalves Campos, 3 - campos, 295 - Pousada dos Campos, Pouso Alegre - MG, 37550-000
+- Telefone e WhatsApp: (35) 99815-3887
+- Horário: segunda a sexta, 07:00 às 18:00; sábado e domingo fechado, com plantão para chamadas de emergência
+- Ficha no Google Maps: https://www.google.com/maps/search/?api=1&query=Planeta%20Frio%20Ar%20Condicionado%20e%20Refrigera%C3%A7%C3%A3o%20Comercial%2C%20R.%20Geraldo%20Gon%C3%A7alves%20Campos%2C%20295%2C%20Pouso%20Alegre%20-%20MG
+
+## Serviços
+- Instalação de ar condicionado: Instalação de ar condicionado de todas as marcas, residencial, comercial e industrial, com acabamento limpo e segurança.
+- Manutenção de ar condicionado: Limpeza, higienização, revisão e conserto de ar condicionado de todas as marcas em Pouso Alegre.
+- Climatizadores: Instalação e manutenção de climatizadores para casas, comércios e galpões.
+- Câmara fria: Instalação e manutenção de câmara fria para comércios e indústrias que precisam conservar produtos.
+- Refrigeração comercial: Atendimento a balcões, expositores, freezers e sistemas de refrigeração de comércios.
+- Geladeira e refrigeradores: Conserto e manutenção de geladeira doméstica ou industrial e de refrigeradores.
+
+## Regiões atendidas
+Pouso Alegre (bairros como Pousada dos Campos, Centro, São Geraldo, Foch, Santa Rita, Faisqueira) e cidades do Sul de Minas como Borda da Mata, Santa Rita do Sapucaí, Cachoeira de Minas, Estiva, Congonhal, Itajubá.
+
+## Página
+- [Site da Planeta Frio](https://sitesempresas-web.github.io/planeta-frio/)
